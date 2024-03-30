@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hi from Animesh");
+    println!("Hello, world!");
 }

@@ -1,1 +1,1 @@
-C:\Users\legion\OneDrive\Desktop\Projects\Rust\Rust-Learnings\hello\target\debug\hello.exe: C:\Users\legion\OneDrive\Desktop\Projects\Rust\Rust-Learnings\hello\src\main.rs
+/Users/animesh5.roy/projects/Rust-Learnings/hello/target/debug/hello: /Users/animesh5.roy/projects/Rust-Learnings/hello/src/main.rs
