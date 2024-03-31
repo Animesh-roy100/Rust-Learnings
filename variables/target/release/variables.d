@@ -1,1 +1,1 @@
-/Users/animesh5.roy/projects/Rust-Learnings/variables/target/release/variables: /Users/animesh5.roy/projects/Rust-Learnings/variables/src/main.rs
+C:\Users\legion\OneDrive\Desktop\Projects\Rust-Learnings\variables\target\release\variables.exe: C:\Users\legion\OneDrive\Desktop\Projects\Rust-Learnings\variables\src\main.rs
