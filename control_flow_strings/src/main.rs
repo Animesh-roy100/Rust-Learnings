@@ -12,7 +12,6 @@ fn main() {
     //     vec!["apple".to_string(), "banana".to_string()]
     let args: Vec<String> = std::env::args().skip(1).collect();
 
-    // This consumes the `args` vector to iterate through each String
     for arg in args {
         if arg == "sum" {
             sum();

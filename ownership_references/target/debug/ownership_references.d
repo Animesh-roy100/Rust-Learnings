@@ -1,0 +1,1 @@
+C:\Users\legion\OneDrive\Desktop\Projects\Rust-Learnings\ownership_references\target\debug\ownership_references.exe: C:\Users\legion\OneDrive\Desktop\Projects\Rust-Learnings\ownership_references\src\main.rs
