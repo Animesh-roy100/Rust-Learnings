@@ -1,0 +1,1 @@
+C:\Users\legion\OneDrive\Desktop\Projects\Rust-Learnings\download-rust-image\target\debug\download-rust-image.exe: C:\Users\legion\OneDrive\Desktop\Projects\Rust-Learnings\download-rust-image\src\main.rs

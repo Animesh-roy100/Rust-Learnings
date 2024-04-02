@@ -83,16 +83,7 @@ fn main() {
     handle_d.join().unwrap();
 
     println!("Main thread: Exiting.");
-}
-
-[package]
-name = "closures_threads"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-crossbeam = "0.8.2"
-
+} 
 
 
 // // Silence some warnings so they don't distract from the exercise.
